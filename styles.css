@@ -9,6 +9,7 @@ img{
 	object-fit: cover;
 }
 .content{
+	margin:10px;
 	display:block;
 	
 }
